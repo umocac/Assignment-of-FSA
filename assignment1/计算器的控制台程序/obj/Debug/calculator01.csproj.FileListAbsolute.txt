@@ -1,0 +1,7 @@
+D:\新建文件夹\vvss\calculator01\bin\Debug\calculator01.exe.config
+D:\新建文件夹\vvss\calculator01\bin\Debug\calculator01.exe
+D:\新建文件夹\vvss\calculator01\bin\Debug\calculator01.pdb
+D:\新建文件夹\vvss\calculator01\obj\Debug\calculator01.csproj.AssemblyReference.cache
+D:\新建文件夹\vvss\calculator01\obj\Debug\calculator01.csproj.CoreCompileInputs.cache
+D:\新建文件夹\vvss\calculator01\obj\Debug\calculator01.exe
+D:\新建文件夹\vvss\calculator01\obj\Debug\calculator01.pdb
