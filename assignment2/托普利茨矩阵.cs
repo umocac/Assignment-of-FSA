@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
+//判断是否为托普利茨矩阵
 namespace tplz_matrix
 {
     internal class Program
